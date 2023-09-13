@@ -1,0 +1,72 @@
+.five
+{
+    background-color: black;
+    height: 520px;
+    width: 1515px;
+    display: grid;
+    grid-template-columns: 1fr  1fr 1fr  1fr;
+    padding-top: 30px;
+   
+    
+    
+}
+.six{
+    background-color: black;
+    height: 520px;
+    width: 1515px;
+    display: grid;
+    grid-template-columns: 1fr  1fr 1fr  1fr;
+    padding-top: 30px;
+
+}
+.seven{
+    background-color: black;
+    height: 150px;
+    width: 1515px;
+    display: grid;
+    grid-template-columns: 1fr  1fr  1fr;
+    padding-top: 40px;
+}
+.head-seven{
+    color: gray;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 50px;
+    padding-top: 20px;
+}
+
+.rooter{
+    background-color: black;
+    height: 100px;
+    width: 1515px;
+    display: grid;
+    grid-template-columns: 1fr  1fr  1fr;
+    padding-top: 40px;
+
+}
+.rooter-logo{
+    height: 50px;
+    width: 140px;
+    padding-left: 90px;
+}
+.rooter-p{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-left: 90px;
+}
+.rooter-icon{
+    padding-left: 25px;
+    height: 35px;
+}
+.rooter-img{
+    margin-left: 150px;
+}
+.rooter-sy{
+    margin-top: 0;
+    margin-left: 100px;
+}
+
+    

@@ -1,0 +1,21 @@
+body{
+    margin-left: 0;
+    margin-bottom: 0;
+}
+h1{
+    color: gray;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    margin-left: 50px;
+}
+    
+p{
+    color: white;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    margin-left: 50px;
+    padding-top: 10px;
+    
+}

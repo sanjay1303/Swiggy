@@ -1,0 +1,45 @@
+.third{
+    height: 550px;
+    width: 1515px;
+    display: grid;
+    grid-template-columns: 1fr  1fr;
+}
+.third-image{
+margin-left: 50px;
+    display: grid;
+    grid-template-columns: 1fr  1fr;
+}
+.half{
+    padding-left: 0px;
+    height: 500px;
+    width: 400px;
+}
+.full{
+    padding-top: 100px;
+    height: 450px;
+    width: 400px;
+}
+.restaurant{
+    font-size: 40px; 
+    width: 250px;
+    color: black;
+}
+.order{
+font-size: 20px;
+width: 380px;
+color: gray;
+}  
+.third-txt{
+    padding-left: 150px;
+    padding-top: 80px;
+}
+.play{
+    width: 200px;
+    border-radius: 2px; 
+}
+.ios{
+    padding-left: 50px;
+    padding-top: 40px;
+    width: 200px;
+    border-radius: 2px; 
+}
